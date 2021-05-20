@@ -5,12 +5,10 @@
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
     <title>Devops course!</title>
-    <jsp:test>
-    	<h1>Hello!</h1>
-    </jsp:text>
     </head>
     <body>
     <a>Guru File Upload:</a>
+        <a>Guru File Upload:</a>
     Select file: <br />
     </body>
     </html>
