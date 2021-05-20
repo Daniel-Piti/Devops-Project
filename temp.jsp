@@ -4,7 +4,10 @@
     <html>
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    <title>Guru File</title>
+    <title>Devops course!</title>
+    <jsp:test>
+    	<h1>Hello!</h1>
+    </jsp:text>
     </head>
     <body>
     <a>Guru File Upload:</a>
