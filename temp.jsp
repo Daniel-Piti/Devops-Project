@@ -14,6 +14,6 @@
     Transactions are verified by network nodes through cryptography and recorded in a public distributed ledger called a blockchain.<br/><br/></a>
     <img SRC="https://static.currency.com/img/media/bitcoin.dd8a16.png" width="200" height="200">
     <br/>
-    <a>Ziv thank you for the dev ops course!</a>
+    <a>Ziv thank you for the dev ops course!!!</a>
     </body>
     </html>
