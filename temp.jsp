@@ -15,6 +15,5 @@
     <img SRC="https://static.currency.com/img/media/bitcoin.dd8a16.png" width="200" height="200">
     <br/>
     <a>Ziv thank you for the dev ops course!</a>
-    <a>Ziv thank you for the dev ops course!</a>
     </body>
     </html>
